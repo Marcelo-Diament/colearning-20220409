@@ -10,7 +10,7 @@ Criar um site simples usando Node, Express e HTML
 
 ### Etapa 1
 
-1. Criar um projeto node com a dependência com Express e dependência de desenvolvimento nodemon. Já criar os scripts também. | Flavio Benedini
+1. Criar um projeto node com a dependência com Express e dependência de desenvolvimento nodemon. Já criar os scripts também. | Warllison Santos
 
 2. Criar o arquivo principal e, nele, definir rotas que devolvam arquivos HTML. Nessa etapa, precisamos configurar uma rota para a página principal e outra para uma página "Sobre". | Flavio Benedini
 
